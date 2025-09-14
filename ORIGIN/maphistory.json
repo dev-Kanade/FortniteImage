@@ -3,7 +3,23 @@
   "maplist":[
     {
       "name":"シーズン1",
-      "url":""
+      "url":"https://fnasset.merofn.com/ORIGIN/data/og_s1_map.png"
+    },
+    {
+      "name":"シーズン2",
+      "url":null
+    },
+    {
+      "name":"シーズン3",
+      "url":null
+    },
+    {
+      "name":"シーズン4",
+      "url":null
+    },
+    {
+      "name":"シーズン5",
+      "url":null
     }
   ]
 }
