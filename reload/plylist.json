@@ -1,5 +1,5 @@
 {
-    "data":"",
+    "data":"2025/09/14 17:40JST",
     "lang":"ja",
     "playlistdata":[
         {
@@ -33,6 +33,38 @@
             "valid":true,
             "rank":false,
             "data":"2025/09/14 17:40JST"
+        },
+        {
+            "name":"リロード ランク",
+            "explanation":"クラシックなリロードだが、もう少し熱くなれる！ 同等ランクのプレイヤーたちに立ち向かえ。腕前を見せつけ、報酬獲得のためのチャレンジをクリアしながら、ランクを駆け上ろう。",
+            "creator":"EpicGames",
+            "playlistimg":"https://cdn2.unrealengine.com/jp-fnbr-37-30-reload-rankedreload-build-discoverplaylisttile-1920x1080-1920x1080-3ad8857f16b1.jpg?resize=1&w=1600",
+            "gallery":[
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg"
+            ],
+            "valid":true,
+            "rank":true,
+            "data":"2025/09/14 17:45JST"
+        },
+        {
+            "name":"リロード ゼロビルド ランク",
+            "explanation":"クラシックなリロードだが、もう少し熱くなれる！ 同等ランクのプレイヤーたちに立ち向かえ。腕前を見せつけ、報酬獲得のためのチャレンジをクリアしながら、ランクを駆け上ろう。",
+            "creator":"EpicGames",
+            "playlistimg":"https://cdn2.unrealengine.com/jp-fnbr-37-30-reload-rankedreload-zb-discoverplaylisttile-1920x1080-1920x1080-db84d4ca5f81.jpg?resize=1&w=1600",
+            "gallery":[
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg"
+            ],
+            "valid":true,
+            "rank":true,
+            "data":"2025/09/14 17:45JST"
         }
     ]
 }
