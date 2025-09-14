@@ -2,8 +2,20 @@
   "date":"2025/09/14 12:01JST",
   "map":[
     {
-      "version":"",
-      "mapimg":""
+      "version":null,
+      "mapimg":"https://fnasset.merofn.com/BlitzROYAL/data/1.jpg"
+    },
+    {
+      "version":null,
+      "mapimg":"https://fnasset.merofn.com/BlitzROYAL/data/MEGA.jpg"
+    },
+    {
+      "version":null,
+      "mapimg":"https://fnasset.merofn.com/BlitzROYAL/data/Mega2.jpg"
+    },
+    {
+      "version":null,
+      "mapimg":"https://fnasset.merofn.com/BlitzROYAL/data/sytdel.jpg"
     }
   ]
 }
