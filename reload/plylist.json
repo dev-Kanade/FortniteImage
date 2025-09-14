@@ -17,6 +17,22 @@
             "valid":true,
             "rank":false,
             "data":"2025/09/14 17:40JST"
+        },
+        {
+            "name":"ゼロビルド",
+            "explanation":"「フォートナイト リロード」は40人のプレイヤー対応のバトルロイヤルゲーム。スクワッドを勝利へ導くことに焦点が当てられているぞ。  チームメイトが1人でも生き残っている限り、リブートできる！ リブート後は戦利品を集めて戦闘態勢を整えよう！ 敵を撃破すればチームメイトのリブートをスピードアップできる！  マッチの終盤ではリブートできなくなる。スクワッド全員でしっかり集中してVictory Royaleを達成しよう！",
+            "creator":"EpicGames",
+            "playlistimg":"https://cdn2.unrealengine.com/jp-fnbr-37-30-reload-unrankedreload-zb-discoverplaylisttile-1920x1080-1920x1080-71c3b8def2fc.jpg?resize=1&w=1600",
+            "gallery":[
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg"
+            ],
+            "valid":true,
+            "rank":false,
+            "data":"2025/09/14 17:40JST"
         }
     ]
 }
