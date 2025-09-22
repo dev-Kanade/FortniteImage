@@ -1,0 +1,17 @@
+{
+    "lang":"ja",
+    "playlist":{
+        "name":"Festival メインステージ",
+        "description":"お気に入りのアーティストのヒットナンバーをステージで演奏しよう。「Fortnite Festival」ではフレンドとバンドを組んでもいいし、ソロでも楽しめるぞ！ メインステージで、ローテーションされるおすすめのジャムトラックを演奏しよう。フレンドと最高のパフォーマンスを目指して競い合ったり、チームを組んでランキングを駆け上ろう。フェスティバルはまだ始まったばかり。今後もジャムトラック、ミュージックのアイコン、コンサート、ステージが追加される予定だ。「Fortnite Festival」でステージに立とう！",
+        "image":[
+            {
+                "tyepe":"playlist",
+                "lang":"ja",
+                "url":"https://cdn2.unrealengine.com/jp-fnsp-10-hilarious-discoverplaylisttile-1920x1080-1920x1080-a1767683e3a5.jpg?resize=1&w=1920",
+                "width":1920,
+                "height":1080
+            }
+        ],
+        "creator":"Epic Gaes"
+    }
+}
