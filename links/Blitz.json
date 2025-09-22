@@ -1,0 +1,17 @@
+{
+    "lang":"ja",
+    "playlist":{
+        "name":"BlitzROYAL",
+        "description":"32人のプレイヤー。小型のマップ。短期決戦。ゼロビルド。ランダムなメダリオンを持った状態でマッチが開始。すぐに戦いが始まるぞ。撃破数を積み上げ、ストームフェーズを生き延びて、Blitzレベルを上げよう。レベルが上がると強力な戦利品が手に入る！",
+        "image":[
+            {
+                "tyepe":"playlist",
+                "lang":"ja",
+                "url":"https://cdn2.unrealengine.com/jp-fneco-37-20-br13-16-marvel-island-discoverplaylisttile-1920x1080-1920x1080-0d334c9e0384.jpg?resize=1&w=1920",
+                "width":1920,
+                "height":1080
+            }
+        ],
+        "creator":"Epic Games"
+    }
+}
