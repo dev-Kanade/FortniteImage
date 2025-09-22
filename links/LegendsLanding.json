@@ -1,0 +1,17 @@
+{
+    "lang":"en",
+    "playlist":{
+        "name":"Legends Landing",
+        "description":"Welcome to Legends Landing – the ultimate FNCS viewing experience!Catch all the action as your favorite pro players compete live. Earn Hype Points to unlock exclusive island merch, hang out with friends, and enjoy the show together!Feeling competitive? Jump into the brand-new Rift Rumble – a trios, respawn battle that brings the FNCS experience to you. Designed to capture the intensity of Battle Royale, it’s your shot to feel like a pro.Legends Landing features promotional content.",
+        "image":[
+            {
+                "tyepe":"playlist",
+                "lang":"en",
+                "url":"https://cdn-0001.qstv.on.epicgames.com/CDUwUDDlVxvsSwxqvL/image/landscape_comp.jpeg",
+                "width":1920,
+                "height":1080
+            }
+        ],
+        "creator":"EpicLabs"
+    }
+}
