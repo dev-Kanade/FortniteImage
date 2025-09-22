@@ -1,0 +1,17 @@
+{
+    "lang":"ja",
+    "playlist":{
+        "name":"パーティーロイヤル",
+        "description":"パーティーへようこそ！ 武器や素材については今は忘れ、フレンドと遊んだり、ゲームをプレイしたり、スカイダイビングを極めたりしよう。パーティーは始まったばかりだ！",
+        "image":[
+            {
+                "tyepe":"playlist",
+                "lang":"ja",
+                "url":"https://cdn2.unrealengine.com/partyroyalelogo-1920-1920x1080-199a4b893ba3.jpg?resize=1&w=1920",
+                "width":1920,
+                "height":1080
+            }
+        ],
+        "creator":"Epic Gaes"
+    }
+}
